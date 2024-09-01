@@ -1,2 +1,4 @@
 create test1.txt file
-int x=9;
+<<<<<<< HEAD
+int x=90;
+>>>>>>> 058812c1cbfb5cf87af408beec6ef66e4057498d
