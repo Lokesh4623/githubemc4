@@ -1,4 +1,4 @@
 create test1.txt file
 int x=900;
 int y=80;
-
+int z=90;
